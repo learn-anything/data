@@ -5,7 +5,8 @@ export default defineConfig({
   title: "Learn Anything Docs",
   srcExclude: ["**/data/**", "**/brand/**"], // TODO: doesn't work properly
   ignoreDeadLinks: true, // can remove after above line is fixed, is here to make build work
-  description: "",
+  description:
+    "Organize world's knowledge, explore connections and curate learning paths",
   cleanUrls: true,
   metaChunk: true,
   themeConfig: {
@@ -25,7 +26,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/learn-anything/learn-anything.xyz",
+        link: "https://github.com/learn-anything/docs",
       },
     ],
 
