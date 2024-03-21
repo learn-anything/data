@@ -2,7 +2,7 @@
 
 > Docs + data to seed LA/tasks
 
-Docs are available in [docs](docs). Will be published to [docs.learn-anything.xyz](https://docs.learn-anything.xyz) with [VitePress](https://vitepress.dev/).
+Published to [docs.learn-anything.xyz](https://docs.learn-anything.xyz) with [VitePress](https://vitepress.dev/).
 
 ## Data
 

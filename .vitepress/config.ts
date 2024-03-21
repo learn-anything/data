@@ -3,6 +3,8 @@ import { generateSidebar } from "vitepress-sidebar"
 
 export default defineConfig({
   title: "Learn Anything Docs",
+  srcExclude: ["**/data/**", "**/brand/**"], // TODO: doesn't work properly
+  ignoreDeadLinks: true, // can remove after above line is fixed, is here to make build work
   description: "",
   cleanUrls: true,
   metaChunk: true,
