@@ -29,10 +29,7 @@ Builds VitePress site for production.
 
 > vitepress preview
 
-Serves built VitePress site locally for previewing.
-
-> [!CAUTION]
-> Fails with error
+Serves built VitePress site locally for previewing. Fails with error currently.
 
 ### 🖤
 
