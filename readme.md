@@ -12,6 +12,28 @@ Everything inside [data/seed](data/seed) is used to seed [learn-anything.xyz](ht
 
 [data](data) folder can also be used as seed/test data for [tasks](https://github.com/learn-anything/tasks) being developed.
 
+## Commands
+
+### bun dev
+
+> vitepress dev
+> Starts local development server for VitePress.
+
+### bun run build
+
+> vitepress build
+
+Builds VitePress site for production.
+
+### bun preview
+
+> vitepress preview
+
+Serves built VitePress site locally for previewing.
+
+> [!CAUTION]
+> Fails with error
+
 ### 🖤
 
 [![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/bxtD8x6aNF) [![X](https://img.shields.io/badge/learnanything-100000?logo=X&color=black)](https://twitter.com/learnanything_)
