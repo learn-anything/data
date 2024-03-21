@@ -17,7 +17,8 @@ Everything inside [data/seed](data/seed) is used to seed [learn-anything.xyz](ht
 ### bun dev
 
 > vitepress dev
-> Starts local development server for VitePress.
+
+Starts local development server for VitePress.
 
 ### bun run build
 
