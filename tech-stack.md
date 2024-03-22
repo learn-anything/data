@@ -1,5 +1,7 @@
 # Tech stack
 
+Below can be outdated, it shows general gist of tech direction to solve the problems we have.
+
 ## Desktop app (macOS/Windows/Linux)
 
 ### Built with
